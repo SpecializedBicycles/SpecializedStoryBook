@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>AW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="20" height="14"></rect>
+        <filter x="-10.0%" y="-7.1%" width="120.0%" height="128.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="3.81078139 3.94554081 2.80062884 4.25661616 3.11805267 3.26666667 2.80062884 2.27671717 3.81078139 2.58779252 4.82093393 2.27671717 4.50351011 3.26666667 4.82093393 4.25661616"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-700.000000, -28.000000)">
+            <g id="AW" transform="translate(700.000000, 28.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="Mask-Copy" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#4189DD" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Star-2" mask="url(#mask-2)" transform="translate(3.810781, 3.266667) rotate(-225.000000) translate(-3.810781, -3.266667) ">
+                    <use fill="#D21034" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <path stroke="#FFFFFF" stroke-width="0.666666667" d="M3.81078139,4.29432163 L2.28813899,4.76321765 L2.76800281,3.26666667 L2.28813899,1.77011568 L3.81078139,2.23901171 L5.33342379,1.77011568 L4.85355997,3.26666667 L5.33342379,4.76321765 L3.81078139,4.29432163 Z"></path>
+                </g>
+                <rect id="Rectangle-1223" fill="#F9D616" mask="url(#mask-2)" x="0" y="10.2666667" width="20" height="1"></rect>
+                <rect id="Rectangle-1223" fill="#F9D616" mask="url(#mask-2)" x="0" y="8.4" width="20" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

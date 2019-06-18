@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ES</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-220.000000, -220.000000)">
+            <g id="ES" transform="translate(220.000000, 220.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Rectangle-2" fill="#DD172C" mask="url(#mask-2)" x="0" y="0" width="20" height="3.73333333"></rect>
+                <rect id="Rectangle-2" fill="#DD172C" mask="url(#mask-2)" x="0" y="10.2666667" width="20" height="3.73333333"></rect>
+                <rect id="Rectangle-2" fill="#FFD133" mask="url(#mask-2)" x="0" y="3.73333333" width="20" height="6.53333333"></rect>
+                <path d="M5.23843531,8.49948996 C5.1597852,8.52150997 5.07803566,8.53333333 4.99497732,8.53333333 L4.99497732,9.2 L5.48121316,9.2 L5.48121316,8.53333333 C5.39839038,8.53333333 5.31687325,8.52150038 5.23843531,8.49948996 Z" id="Rectangle-137" stroke="#A41517" stroke-width="0.666666667" mask="url(#mask-2)"></path>
+                <polygon id="Rectangle-139" fill="#A41517" mask="url(#mask-2)" points="4.28571429 7 6.19047619 7 6.19047619 7.46666667 5.71428571 7.46666667 5.23809524 8.4 4.76190476 7.46666667 4.28571429 7.46666667"></polygon>
+                <rect id="Rectangle-135" fill="#A41517" mask="url(#mask-2)" x="2.85714286" y="5.6" width="1" height="3.26666667"></rect>
+                <rect id="Rectangle-135-Copy" fill="#A41517" mask="url(#mask-2)" x="6.66666667" y="5.6" width="1" height="3.26666667"></rect>
+                <path d="M4.28571429,5.13333333 C4.28571429,4.87560045 4.48955718,4.66666667 4.74680401,4.66666667 L5.72938647,4.66666667 C5.98403929,4.66666667 6.19047619,4.88313802 6.19047619,5.13333333 L6.19047619,5.26304525 C6.19047619,5.44914022 6.04101272,5.6 5.85869199,5.6 L4.61749849,5.6 C4.43425913,5.6 4.28571429,5.45416667 4.28571429,5.26304525 L4.28571429,5.13333333 Z" id="Rectangle-138" fill="#A41517" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

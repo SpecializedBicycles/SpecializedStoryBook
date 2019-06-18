@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ZA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-28.000000, -1132.000000)">
+            <g id="ZA" transform="translate(28.000000, 1132.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="#06A86E" xlink:href="#path-2"></use>
+                <polygon id="Rectangle-83" fill="#FFBF2E" mask="url(#mask-3)" points="0 1.86666667 6.66666667 7 0 12.1333333"></polygon>
+                <polygon id="Rectangle-83-Copy-5" fill="#262626" mask="url(#mask-3)" points="-0.952380952 2.1 5.47619048 7 -0.952380952 11.9"></polygon>
+                <polygon id="Rectangle-83-Copy" fill="#FFFFFF" mask="url(#mask-3)" points="8.57142857 5.6 1.9047619 0 20 0 20 5.6"></polygon>
+                <polygon id="Rectangle-83-Copy-3" fill="#F44E46" mask="url(#mask-3)" points="8.80952381 4.66666667 3.0952381 0 20 0 20 4.66666667"></polygon>
+                <polygon id="Rectangle-83-Copy-2" fill="#FFFFFF" mask="url(#mask-3)" points="1.9047619 14 20 14 20 8.4 8.57142857 8.4"></polygon>
+                <polygon id="Rectangle-83-Copy-4" fill="#072CB4" mask="url(#mask-3)" points="3.0952381 14 20 14 20 9.33333333 8.80952381 9.33333333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

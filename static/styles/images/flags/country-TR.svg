@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>TR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-412.000000, -940.000000)">
+            <g id="TR" transform="translate(412.000000, 940.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Mask-Copy" fill="#E92434" mask="url(#mask-2)" x="0" y="0" width="20" height="14"></rect>
+                <polygon id="Star-8" fill="#FFFFFF" mask="url(#mask-2)" points="13.3469859 7.56872927 12.227395 8.3508943 12.6404868 7.06569362 11.5354497 6.26389752 12.9103454 6.25176485 13.3469859 4.97406258 13.7836264 6.25176485 15.1585221 6.26389752 14.0534851 7.06569362 14.4665769 8.3508943 13.3469859 7.56872927 13.3469859 7.56872927"></polygon>
+                <path d="M12.4305438,4.42112011 C11.6463219,3.43454596 10.4225859,2.8 9.04761905,2.8 C6.68068441,2.8 4.76190476,4.68040405 4.76190476,7 C4.76190476,9.31959595 6.68068441,11.2 9.04761905,11.2 C10.4225859,11.2 11.6463219,10.565454 12.4305438,9.57887989 C11.8253807,10.009922 11.0645182,10.2666667 10.2380952,10.2666667 C8.2656497,10.2666667 6.66666667,8.80413018 6.66666667,7 C6.66666667,5.19586982 8.2656497,3.73333333 10.2380952,3.73333333 C11.0645182,3.73333333 11.8253807,3.99007796 12.4305438,4.42112011 Z" id="Oval-41" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

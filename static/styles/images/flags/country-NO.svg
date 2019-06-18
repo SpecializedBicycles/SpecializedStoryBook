@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>NO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-220.000000, -652.000000)">
+            <g id="NO" transform="translate(220.000000, 652.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="19.5" height="13.5" rx="2"></rect>
+                </g>
+                <path d="M0,0 L20,0 L20,14 L0,14 L0,0 Z M0,8.4 L5.71428571,8.4 L5.71428571,14 L8.57142857,14 L8.57142857,8.4 L20,8.4 L20,5.6 L8.57142857,5.6 L8.57142857,0 L5.71428571,0 L5.71428571,5.6 L0,5.6 L0,8.4 Z" id="Combined-Shape" fill="#F14247" mask="url(#mask-2)"></path>
+                <polygon id="Rectangle-2" fill="#0A3A85" mask="url(#mask-2)" points="0 7.46666667 6.66666667 7.46666667 6.66666667 14 7.61904762 14 7.61904762 7.46666667 20 7.46666667 20 6.53333333 7.61904762 6.53333333 7.61904762 0 6.66666667 0 6.66666667 6.53333333 0 6.53333333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

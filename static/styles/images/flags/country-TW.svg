@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>TW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-460.000000, -940.000000)">
+            <g id="TW" transform="translate(460.000000, 940.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                <rect id="Rectangle-2" fill="#FE3030" mask="url(#mask-3)" x="-0.952380952" y="-0.933333333" width="21.9047619" height="15.8666667"></rect>
+                <rect id="Rectangle-2" fill="#0909B6" mask="url(#mask-3)" x="-0.952380952" y="-0.933333333" width="11.4285714" height="8.4"></rect>
+                <polygon id="Star-27" fill="#FFFFFF" mask="url(#mask-3)" points="5.23809524 4.9 4.32694421 5.88905224 4.39630145 4.55829124 3.03838207 4.62626134 4.04761905 3.73333333 3.03838207 2.84040532 4.39630145 2.90837542 4.32694421 1.57761442 5.23809524 2.56666667 6.14924627 1.57761442 6.07988903 2.90837542 7.43780841 2.84040532 6.42857143 3.73333333 7.43780841 4.62626134 6.07988903 4.55829124 6.14924627 5.88905224"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

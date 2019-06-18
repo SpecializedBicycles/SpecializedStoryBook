@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>KG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-124.000000, -508.000000)">
+            <g id="KG" transform="translate(124.000000, 508.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Mask-Copy" fill="#F22A46" mask="url(#mask-2)" x="0" y="0" width="20" height="14"></rect>
+                <ellipse id="Oval-9" fill="#FFF04D" mask="url(#mask-2)" cx="10" cy="7" rx="2.38095238" ry="2.33333333"></ellipse>
+                <path d="M10,10.2995291 L8.83441416,12.0046299 L8.5391714,9.97277301 L6.73410104,11.0134016 L7.36767782,9.05722275 L5.28063926,9.22726986 L6.71754793,7.7342143 L4.76190476,7 L6.71754793,6.2657857 L5.28063926,4.77273014 L7.36767782,4.94277725 L6.73410104,2.98659839 L8.5391714,4.02722699 L8.83441416,1.99537005 L10,3.70047089 L11.1655858,1.99537005 L11.4608286,4.02722699 L13.265899,2.98659839 L12.6323222,4.94277725 L14.7193607,4.77273014 L13.2824521,6.2657857 L15.2380952,7 L13.2824521,7.7342143 L14.7193607,9.22726986 L12.6323222,9.05722275 L13.265899,11.0134016 L11.4608286,9.97277301 L11.1655858,12.0046299 L10,10.2995291 Z M10,10.2666667 C11.8409492,10.2666667 13.3333333,8.80413018 13.3333333,7 C13.3333333,5.19586982 11.8409492,3.73333333 10,3.73333333 C8.15905083,3.73333333 6.66666667,5.19586982 6.66666667,7 C6.66666667,8.80413018 8.15905083,10.2666667 10,10.2666667 Z" id="Star-28" fill="#FFF04D" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>HN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-124.000000, -364.000000)">
+            <g id="HN" transform="translate(124.000000, 364.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="19.5" height="13.5" rx="2"></rect>
+                </g>
+                <rect id="Rectangle-2" fill="#0884E6" mask="url(#mask-2)" x="0" y="0" width="20" height="4.66666667"></rect>
+                <rect id="Rectangle-2" fill="#0884E6" mask="url(#mask-2)" x="0" y="9.33333333" width="20" height="4.66666667"></rect>
+                <polygon id="Star-20" fill="#0E88E9" mask="url(#mask-2)" points="10 7.46666667 9.32656497 7.65996633 9.52380952 7 9.32656497 6.34003367 10 6.53333333 10.673435 6.34003367 10.4761905 7 10.673435 7.65996633"></polygon>
+                <polygon id="Star-20-Copy" fill="#0E88E9" mask="url(#mask-2)" points="13.8095238 6.53333333 13.1360888 6.726633 13.3333333 6.06666667 13.1360888 5.40670034 13.8095238 5.6 14.4829588 5.40670034 14.2857143 6.06666667 14.4829588 6.726633"></polygon>
+                <polygon id="Star-20-Copy-2" fill="#0E88E9" mask="url(#mask-2)" points="13.8095238 8.4 13.1360888 8.59329966 13.3333333 7.93333333 13.1360888 7.273367 13.8095238 7.46666667 14.4829588 7.273367 14.2857143 7.93333333 14.4829588 8.59329966"></polygon>
+                <polygon id="Star-20-Copy-3" fill="#0E88E9" mask="url(#mask-2)" points="6.19047619 8.4 5.51704116 8.59329966 5.71428571 7.93333333 5.51704116 7.273367 6.19047619 7.46666667 6.86391122 7.273367 6.66666667 7.93333333 6.86391122 8.59329966"></polygon>
+                <polygon id="Star-20-Copy-4" fill="#0E88E9" mask="url(#mask-2)" points="6.19047619 6.53333333 5.51704116 6.726633 5.71428571 6.06666667 5.51704116 5.40670034 6.19047619 5.6 6.86391122 5.40670034 6.66666667 6.06666667 6.86391122 6.726633"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

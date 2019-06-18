@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>DO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-172.000000, -172.000000)">
+            <g id="DO" transform="translate(172.000000, 172.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="19.5" height="13.5" rx="2"></rect>
+                </g>
+                <rect id="Rectangle-2" fill="#083D7A" mask="url(#mask-2)" x="0" y="0" width="8.57142857" height="5.6"></rect>
+                <rect id="Rectangle-2" fill="#083D7A" mask="url(#mask-2)" x="11.4285714" y="8.4" width="8.57142857" height="5.6"></rect>
+                <rect id="Rectangle-2" fill="#DF1E35" mask="url(#mask-2)" x="0" y="8.4" width="8.57142857" height="5.6"></rect>
+                <rect id="Rectangle-2" fill="#DF1E35" mask="url(#mask-2)" x="11.4285714" y="0" width="8.57142857" height="5.6"></rect>
+                <path d="M9.87132018,5.94060806 C9.32593435,6.00270155 8.9047619,6.45461586 8.9047619,7 C8.9047619,7.58757961 9.39362625,8.06666667 10,8.06666667 C10.5602956,8.06666667 11.0202622,7.65762452 11.0869323,7.13190794 L9.87132018,5.94060806 Z" id="Oval-85" stroke="#0F6D1A" stroke-width="0.666666667" mask="url(#mask-2)" transform="translate(10.000000, 7.000000) rotate(-45.000000) translate(-10.000000, -7.000000) "></path>
+                <ellipse id="Oval-85" fill="#042F60" mask="url(#mask-2)" cx="10" cy="7" rx="1" ry="1"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

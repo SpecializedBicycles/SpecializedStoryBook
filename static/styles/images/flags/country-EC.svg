@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>EC</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-28.000000, -220.000000)">
+            <g id="EC" transform="translate(28.000000, 220.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Rectangle-2" fill="#0748AE" mask="url(#mask-2)" x="0" y="6.53333333" width="20" height="3.73333333"></rect>
+                <rect id="Rectangle-2" fill="#DE2035" mask="url(#mask-2)" x="0" y="10.2666667" width="20" height="3.73333333"></rect>
+                <rect id="Rectangle-2" fill="#FFD935" mask="url(#mask-2)" x="0" y="0" width="20" height="6.53333333"></rect>
+                <path d="M8.85710567,5.6 C8.39448046,5.94055871 8.0952381,6.48275371 8.0952381,7.09344267 C8.0952381,8.1243742 8.94802905,8.96010933 10,8.96010933 C11.051971,8.96010933 11.9047619,8.1243742 11.9047619,7.09344267 C11.9047619,6.48275371 11.6055195,5.94055871 11.1428943,5.6 L10.4761905,7.56010933 L9.52380952,7.56010933 L8.85710567,5.6 Z" id="Oval-12" fill="#FFD935" mask="url(#mask-2)"></path>
+                <polygon id="Rectangle-483" fill="#5FC0DC" mask="url(#mask-2)" points="10 5.13333333 10.4761905 7.46666667 9.52380952 7.46666667"></polygon>
+                <polyline id="Line" stroke="#3F2821" stroke-width="0.666666667" opacity="0.66" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="12.3809524 4.2 10.952381 3.73333333 10 4.66666667 9.04761905 3.73333333 7.61904762 4.2"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

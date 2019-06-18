@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>BA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+        <polygon id="path-3" points="16.1904762 14 16.1904762 0 6.19047619 0"></polygon>
+        <filter x="-15.0%" y="-10.7%" width="130.0%" height="121.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-364.000000, -76.000000)">
+            <g id="BA" transform="translate(364.000000, 76.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Mask-Copy" fill="#0B36B2" mask="url(#mask-2)" x="0" y="0" width="20" height="14"></rect>
+                <g id="Rectangle-2" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFD045" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="12.3809524 13.0666667 11.7075174 13.2599663 11.9047619 12.6 11.7075174 11.9400337 12.3809524 12.1333333 13.0543874 11.9400337 12.8571429 12.6 13.0543874 13.2599663"></polygon>
+                <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="10.4761905 10.2666667 9.80275545 10.4599663 10 9.8 9.80275545 9.14003367 10.4761905 9.33333333 11.1496255 9.14003367 10.952381 9.8 11.1496255 10.4599663"></polygon>
+                <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="8.57142857 7.46666667 7.89799354 7.65996633 8.0952381 7 7.89799354 6.34003367 8.57142857 6.53333333 9.2448636 6.34003367 9.04761905 7 9.2448636 7.65996633"></polygon>
+                <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="6.66666667 4.66666667 5.99323164 4.85996633 6.19047619 4.2 5.99323164 3.54003367 6.66666667 3.73333333 7.3401017 3.54003367 7.14285714 4.2 7.3401017 4.85996633"></polygon>
+                <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="4.76190476 1.86666667 4.08846973 2.05996633 4.28571429 1.4 4.08846973 0.740033671 4.76190476 0.933333333 5.43533979 0.740033671 5.23809524 1.4 5.43533979 2.05996633"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>TT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-316.000000, -940.000000)">
+            <g id="TT" transform="translate(316.000000, 940.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Mask-Copy" fill="#ED233C" mask="url(#mask-2)" x="0" y="0" width="20" height="14"></rect>
+                <polygon id="Rectangle-2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(10.000000, 7.000000) scale(-1, 1) translate(-10.000000, -7.000000) " points="5.37925419 17.7943314 20.0449029 0.66604865 14.6207458 -3.79433141 -0.0449029107 13.3339513 5.37925419 17.7943314"></polygon>
+                <polygon id="Rectangle-2" fill="#262626" mask="url(#mask-2)" transform="translate(10.000000, 7.000000) scale(-1, 1) translate(-10.000000, -7.000000) " points="2.94732454 18.8669726 20.7005061 -1.86729704 17.0526755 -4.86697255 -0.700506141 15.867297 2.94732454 18.8669726"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

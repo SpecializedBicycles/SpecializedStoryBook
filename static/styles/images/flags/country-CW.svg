@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>CW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-556.000000, -124.000000)">
+            <g id="CW" transform="translate(556.000000, 124.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Rectangle-2" fill="#0C49AE" mask="url(#mask-2)" x="0" y="0" width="20" height="11"></rect>
+                <polygon id="Star-53" fill="#FFFFFF" mask="url(#mask-2)" points="5.81153622 6.58254852 4.69194526 7.37683172 5.11679735 6.08788632 4 5.28983494 5.38216398 5.28750608 5.81153622 4 6.24090846 5.28750608 7.62307244 5.28983494 6.5062751 6.08788632 6.93112718 7.37683172"></polygon>
+                <polygon id="Star-53" fill="#FFFFFF" mask="url(#mask-2)" points="3.30999994 3.86755217 2.50037545 4.4419326 2.80760431 3.50984062 2 2.93273526 2.99950237 2.93105116 3.30999994 2 3.62049752 2.93105116 4.61999989 2.93273526 3.81239558 3.50984062 4.11962443 4.4419326"></polygon>
+                <rect id="Rectangle-2" fill="#0C49AE" mask="url(#mask-2)" x="0" y="10.2666667" width="20" height="3.73333333"></rect>
+                <rect id="Rectangle-2-Copy-4" fill="#F9F310" mask="url(#mask-2)" x="0" y="9.4" width="20" height="1.86666667"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "name": "storybookspecialized",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "jquery": "^3.4.1",
+    "react-responsive": "^7.0.0",
+    "react-spring": "^8.0.25",
+    "react-waypoint": "^9.0.2",
+    "styled-components": "^4.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@storybook/addon-actions": "^5.1.1",
+    "@storybook/addon-links": "^5.1.1",
+    "@storybook/addons": "^5.1.1",
+    "@storybook/react": "^5.1.1",
+    "babel-loader": "^8.0.6"
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>GE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-220.000000, -316.000000)">
+            <g id="GE" transform="translate(220.000000, 316.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="19.5" height="13.5" rx="2"></rect>
+                </g>
+                <path d="M8.57142857,5.6 L-0.952380952,5.6 L-0.952380952,8.4 L8.57142857,8.4 L8.57142857,14.9333333 L11.4285714,14.9333333 L11.4285714,8.4 L20.952381,8.4 L20.952381,5.6 L11.4285714,5.6 L11.4285714,-0.933333333 L8.57142857,-0.933333333 L8.57142857,5.6 Z" id="Rectangle-2" fill="#FF2B37" mask="url(#mask-2)"></path>
+                <path d="M15.4285714,2.52 L15.2380952,1.4 L16.1904762,1.4 L16,2.52 L17.1428571,2.33333333 L17.1428571,3.26666667 L16,3.08 L16.1904762,4.2 L15.2380952,4.2 L15.4285714,3.08 L14.2857143,3.26666667 L14.2857143,2.33333333 L15.4285714,2.52 Z" id="Rectangle-742" fill="#FD0D1B" mask="url(#mask-2)"></path>
+                <path d="M4,2.52 L3.80952381,1.4 L4.76190476,1.4 L4.57142857,2.52 L5.71428571,2.33333333 L5.71428571,3.26666667 L4.57142857,3.08 L4.76190476,4.2 L3.80952381,4.2 L4,3.08 L2.85714286,3.26666667 L2.85714286,2.33333333 L4,2.52 Z" id="Rectangle-742" fill="#FD0D1B" mask="url(#mask-2)"></path>
+                <path d="M4,10.92 L3.80952381,9.8 L4.76190476,9.8 L4.57142857,10.92 L5.71428571,10.7333333 L5.71428571,11.6666667 L4.57142857,11.48 L4.76190476,12.6 L3.80952381,12.6 L4,11.48 L2.85714286,11.6666667 L2.85714286,10.7333333 L4,10.92 Z" id="Rectangle-742" fill="#FD0D1B" mask="url(#mask-2)"></path>
+                <path d="M15.4285714,10.92 L15.2380952,9.8 L16.1904762,9.8 L16,10.92 L17.1428571,10.7333333 L17.1428571,11.6666667 L16,11.48 L16.1904762,12.6 L15.2380952,12.6 L15.4285714,11.48 L14.2857143,11.6666667 L14.2857143,10.7333333 L15.4285714,10.92 Z" id="Rectangle-742" fill="#FD0D1B" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

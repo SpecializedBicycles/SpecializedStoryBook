@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>NA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-28.000000, -652.000000)">
+            <g id="NA" transform="translate(28.000000, 652.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <polygon id="Rectangle-2" fill="#0C4799" mask="url(#mask-2)" points="0 9.33333333 20 0 0 0"></polygon>
+                <polygon id="Star-31" fill="#FFD243" mask="url(#mask-2)" points="3.33333333 4.2 2.60441251 4.99124179 2.6598983 3.926633 1.5735628 3.98100907 2.38095238 3.26666667 1.5735628 2.55232426 2.6598983 2.60670034 2.60441251 1.54209154 3.33333333 2.33333333 4.06225416 1.54209154 4.00676836 2.60670034 5.09310387 2.55232426 4.28571429 3.26666667 5.09310387 3.98100907 4.00676836 3.926633 4.06225416 4.99124179"></polygon>
+                <polygon id="Rectangle-2" fill="#1BAC55" mask="url(#mask-2)" points="0 14 20 14 20 4.66666667"></polygon>
+                <polygon id="Rectangle-2" fill="#FFFFFF" mask="url(#mask-2)" points="2.20170362 15.866688 21.5505138 4.01801909 17.7982964 -1.86668802 -1.55051385 9.98198091"></polygon>
+                <polygon id="Rectangle-2" fill="#E52347" mask="url(#mask-2)" points="-0.449427842 16.1503529 22.9728529 1.80720485 20.4494278 -2.15035293 -2.97285291 12.1927952"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

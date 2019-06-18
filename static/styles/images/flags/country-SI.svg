@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>SI</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="14" rx="2"></rect>
+        <rect id="path-3" x="0" y="9.33333333" width="20" height="4.66666667"></rect>
+        <filter x="-7.5%" y="-32.1%" width="115.0%" height="164.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-172.000000, -892.000000)">
+            <g id="SI" transform="translate(172.000000, 892.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="19.5" height="13.5" rx="2"></rect>
+                </g>
+                <path d="M0,9.33333333 L0,0 L20,0 L20,9.33333333 L0,9.33333333 Z M0,4.66666667 L3.80952381,4.66666667 L3.80952381,3.73333333 C3.80952381,3.73333333 4.54499582,3.26666667 5.23809524,3.26666667 C5.93119465,3.26666667 6.60284133,3.73333333 6.60284133,3.73333333 L6.60284133,4.66666667 L20,4.66666667 L20,0 L0,0 L0,4.66666667 Z M5.23809524,6.53333333 C5.76408071,6.53333333 6.19047619,6.11546577 6.19047619,5.6 C6.19047619,5.08453423 5.76408071,4.66666667 5.23809524,4.66666667 C4.71210976,4.66666667 4.28571429,5.08453423 4.28571429,5.6 C4.28571429,6.11546577 4.71210976,6.53333333 5.23809524,6.53333333 Z" id="Combined-Shape" fill="#0C47B7" mask="url(#mask-2)"></path>
+                <g id="Rectangle-2" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#E53B35" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
