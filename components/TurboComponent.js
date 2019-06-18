@@ -13,22 +13,6 @@ import {ThemeContext, themes} from './ThemeContext';
 
 class TurboComponent extends Component {
 
-  static defaultCopyHexColor = 'FFF';
-  static defaultButtonType = 'link';
-
-  static defaultProps = {
-    vPositionForTitle: 'top',
-    vPositionForAttributes: 'bottom',
-    hPositionForTitle: "left",
-    hPositionForAttributes: "right",
-    copyAlignment: 'left',
-    titleFontType: 'large',
-    textStyle: 'light',
-    attributeStyle: '',
-    button1Type: TurboComponent.defaultButtonType,
-    button2Type: TurboComponent.defaultButtonType
-  };
-
   constructor(props) {
     super(props);
     this.state = {
@@ -375,5 +359,20 @@ class TurboComponent extends Component {
     );
   }
 }
+
+TurboComponent.defaultCopyHexColor = 'FFF';
+TurboComponent.defaultButtonType = 'link';
+TurboComponent.defaultProps = {
+  vPositionForTitle: 'top',
+  vPositionForAttributes: 'bottom',
+  hPositionForTitle: "left",
+  hPositionForAttributes: "right",
+  copyAlignment: 'left',
+  titleFontType: 'large',
+  textStyle: 'light',
+  attributeStyle: '',
+  button1Type: TurboComponent.defaultButtonType,
+  button2Type: TurboComponent.defaultButtonType  
+};
 
 export default TurboComponent;
